@@ -19,7 +19,7 @@ html, body {
 .shell {
   height: 100vh;
   display: grid;
-  grid-template-columns: 230px 1fr 1fr 210px;
+  grid-template-columns: 1fr 1.5fr 1.5fr 1fr;
   overflow: hidden;
 }
 
